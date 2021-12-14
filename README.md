@@ -1,5 +1,4 @@
-# work
-When I work
+# When I work Coding Challenge
 
 The PageView constructor basically takes the default path as 'https://public.wiwdata.com/engineering-challenge/data/' where all the csv files are located. 
 We can change the argument to the constructor to take any location, but it assumes that the files names are alphabet csv files. 
