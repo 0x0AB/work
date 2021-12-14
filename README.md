@@ -17,25 +17,25 @@ And the Output.csv which is the file output which is desired.
 See the sample output to run the script.
 
 (turi) Achilles:wheniwork anand$ pwd
-/Users/anand/myData/wheniwork
+/Users/anand/myData/wheniwork<br>
 
-(turi) Achilles:wheniwork anand$ ll
-total 12328
--rw-r--r--  1 anand  staff     1976 Dec 14 02:46 PageView.py
--rw-r--r--  1 anand  staff  5360281 Dec 14 01:39 merge.csv
-drwxr-xr-x  5 anand  staff      160 Dec 14 01:53 package
--rw-r--r--  1 anand  staff      327 Dec 14 02:27 test.py
+(turi) Achilles:wheniwork anand$ ll<br>
+total 12328<br>
+-rw-r--r--  1 anand  staff     1976 Dec 14 02:46 PageView.py<br>
+-rw-r--r--  1 anand  staff  5360281 Dec 14 01:39 merge.csv<br>
+drwxr-xr-x  5 anand  staff      160 Dec 14 01:53 package<br>
+-rw-r--r--  1 anand  staff      327 Dec 14 02:27 test.py<br>
 
 ## (turi) Achilles:wheniwork anand$  python PageView.py 
 
-(turi) Achilles:wheniwork anand$ ll
-total 12888
--rw-r--r--  1 anand  staff     1976 Dec 14 02:46 PageView.py
--rw-r--r--  1 anand  staff  5360281 Dec 14 02:49 merge.csv
--rw-r--r--  1 anand  staff   288718 Dec 14 02:49 output.csv
-drwxr-xr-x  5 anand  staff      160 Dec 14 01:53 package
--rw-r--r--  1 anand  staff      327 Dec 14 02:27 test.py
-(turi) Achilles:wheniwork anand$ 
+(turi) Achilles:wheniwork anand$ ll<br>
+total 12888<br>
+-rw-r--r--  1 anand  staff     1976 Dec 14 02:46 PageView.py<br>
+-rw-r--r--  1 anand  staff  5360281 Dec 14 02:49 merge.csv<br>
+-rw-r--r--  1 anand  staff   288718 Dec 14 02:49 output.csv<br>
+drwxr-xr-x  5 anand  staff      160 Dec 14 01:53 package<br>
+-rw-r--r--  1 anand  staff      327 Dec 14 02:27 test.py<br>
+(turi) Achilles:wheniwork anand$ <br>
 
 The output file is also uploaded to the github
 
